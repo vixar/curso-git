@@ -12,6 +12,8 @@ namespace probando_git
         {
             Console.WriteLine("Hola mundo");
             Console.WriteLine("Como está?");
+            Console.WriteLine("Como está?");
+
 
 
             Console.ReadLine();
